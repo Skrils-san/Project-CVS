@@ -1,45 +1,185 @@
-html {
-    background: #1E1E1E;
-    -webkit-font-smoothing: antialiased;
-}
-
-body {
-    padding: 0;
-    margin: 0;
-    background: #f9f9f9;
-  }
-  /*-- Navigationsleiste --*/
-  .navbar {
-    background:#005ea9;
-  }
-  .nav-link,
-  .navbar-brand {
-    color: white;
-    cursor: pointer;
-  }
-  .nav-link {
-    margin-right: 1em !important;
-  }
-  .nav-link:hover,
-  .navbar-brand:hover {
-    color: white;
-    text-decoration: underline;
-  }
-  .navbar-collapse {
-    justify-content: flex-end;
-  }
-  .fronttext {
-    left: 50%;
+ /*Header*/
+ 
+ .header {
+    margin-top: 40px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 123px;
     position: absolute;
-    top: 40%;
     transform: translate(-50%, -55%);
     text-align: center;
-  }
-  .fronttext h1 {
+}
+.header h1 {
+    width: 100px;
+    height: 65px;
+    background-color: black;
+    font-family:Times;
+    font-size:17px;
     color: #005ea9;
-  }
-  .fronttext p {
+}
+.header p {
+  color: #ffffff;
+  font-size: 1.4rem;
+  line-height: 1.6;
+} 
+
+/*Name*/
+
+.Name {
+    margin-top: 180px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 240px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: center;
+}
+.Name h1 {
+    font-family:Times;
+    font-size:57px;
+    color: #005ea9;
+}
+
+/*Persoenliche-Daten-Links*/
+
+.P-D-L {
+    margin-top: 360px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 170px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.P-D-L h1 {
+    font-family:Times;
+    font-size:25px;
+    color: #005ea9;
+}
+.P-D-L p {
     color: #ffffff;
-    font-size: 1.4rem;
-    line-height: 1.6;
-  }
+    font-size: 12px;
+    line-height: 20;
+}  
+
+/*Persoenliche-Daten-Rechts*/
+
+.P-D-R {
+    margin-top: 377px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 260px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.P-D-R h1 {
+    font-family:Times;
+    font-size:21px;
+    color: #005ea9;
+}
+.P-D-R p {
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 20;
+}  
+
+/*Foto*/
+
+.Foto {
+    margin-top: 365px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 600px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+
+/*Bildungsweg*/
+
+.Bildung {
+    margin-top: 560px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 160px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.Bildung h1 {
+    font-family:Times;
+    font-size:25px;
+    color: #005ea9;
+}
+.Bildung p {
+    color: #ff0000;
+    font-size: 12px;
+    line-height: 20;
+}  
+
+/*Kenntnisse*/
+
+.Kenntnisse {
+    margin-top: 760px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 235px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.Kenntnisse h1 {
+    font-family:Times;
+    font-size:25px;
+    color: #005ea9;
+}
+.Kenntnisse h2 {
+    font-family:Times;
+    font-size:20px;
+    color: #005ea9;
+}
+.Kenntnisse p {
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 20;
+}  
+
+/*Praxis Erfahrung*/
+
+.Erfahrung {
+    margin-top: 950px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 190px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.Erfahrung h1 {
+    font-family:Times;
+    font-size:25px;
+    color: #005ea9;
+}
+.Erfahrung p {
+    color: #ff0000;
+    font-size: 12px;
+    line-height: 20;
+}  
+
+/*Praxis Erfahrung*/
+
+.Unterschrift {
+    margin-top: 1050px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 630px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.Unterschrift p {
+    color: #ff0000;
+    font-size: 12px;
+    line-height: 20;
+}  

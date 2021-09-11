@@ -42,36 +42,7 @@ body {
     font-size: 1.4rem;
     line-height: 1.6;
   }
-  .Bewerbung {
-    left: 50%;
-    position: absolute;
-    top: 40%;
-    transform: translate(-50%, -55%);
-    text-align: center;
-  }
-  .Bewerbung h1 {
-    color: #005ea9;
-  }
-  .Bewerbung p {
-    color: #ffffff;
-    font-size: 1.4rem;
-    line-height: 1.6;
-  }  
-  .Lebenslauf {
-    left: 50%;
-    position: absolute;
-    top: 40%;
-    transform: translate(-50%, -55%);
-    text-align: center;
-  }
-  .Lebenslauf h1 {
-    color: #005ea9;
-  }
-  .Lebenslauf p {
-    color: #ffffff;
-    font-size: 1.4rem;
-    line-height: 1.6;
-  }  
+  
   .Kontakt {
     left: 50%;
     position: absolute;
