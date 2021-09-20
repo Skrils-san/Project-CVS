@@ -17,8 +17,110 @@
     font-size:17px;
     color: #005ea9;
 }
-.Bewerbung p {
+
+/*Header*/
+
+.H-R {
+  margin-top: 165px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 580px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
+.H-R h1 {
+  font-family:Times;
+  font-size:25px;
+  color: #005ea9;
+  line-height: 10px;
+}
+.H-R p {
   color: #ffffff;
-  font-size: 1.4rem;
-  line-height: 1.6;
+  font-size: 12px;
+  line-height: 20;
+}  
+
+/*Header*/
+
+.H-L {
+  margin-top: 305px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 160px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
+.H-L h1 {
+  font-family:Times;
+  font-size:25px;
+  color: #005ea9;
+  line-height: 10px;
+}
+.H-L p {
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 20;
+}  
+
+/*Header*/
+
+.datum {
+  margin-top: 365px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 580px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
+.datum p {
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 20;
+}  
+
+/* */
+
+.ueberschrifft {
+  margin-top: 1160px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 170px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
+.ueberschrifft h1 {
+  font-family:Times;
+  font-size:25px;
+  color: #005ea9;
+}
+.ueberschrifft p {
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 20;
+}  
+
+/* */
+
+.Text {
+  margin-top: 1160px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 170px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
+.Text h1 {
+  font-family:Times;
+  font-size:25px;
+  color: #005ea9;
+}
+.Text p {
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 20;
 } 
