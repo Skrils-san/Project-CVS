@@ -1,0 +1,15 @@
+.impressum {
+  left: 50%;
+  position: absolute;
+  top: 40%;
+  transform: translate(-50%, -55%);
+  text-align: center;
+}
+.impressum h1, h2 {
+  color: #005ea9;
+}
+.impressum p {
+  color: #ffffff;
+  font-size: 1.4rem;
+  line-height: 1.6;
+}

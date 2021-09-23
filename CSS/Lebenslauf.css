@@ -18,9 +18,10 @@
     color: #005ea9;
 }
 .header p {
-  color: #ffffff;
-  font-size: 1.4rem;
-  line-height: 1.6;
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 } 
 
 /*Name*/
@@ -56,10 +57,11 @@
     font-size:25px;
     color: #005ea9;
 }
-.P-D-L p {
-    color: #ffffff;
-    font-size: 12px;
-    line-height: 20;
+.P-D-L p1, p2, p3, p4, p5, p6 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  
 
 /*Persoenliche-Daten-Rechts*/
@@ -78,10 +80,11 @@
     font-size:21px;
     color: #005ea9;
 }
-.P-D-R p {
-    color: #ffffff;
-    font-size: 12px;
-    line-height: 20;
+.P-D-R p1, p2, p3, p4, p5, p6 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  
 
 /*Foto*/
@@ -102,7 +105,7 @@
     margin-top: 560px;
     margin-bottom:0px;
     margin-right: 0px;
-    margin-left: 160px;
+    margin-left: 150px;
     position: absolute;
     transform: translate(-50%, -55%);
     text-align: left;
@@ -112,19 +115,20 @@
     font-size:25px;
     color: #005ea9;
 }
-.Bildung p {
-    color: #ff0000;
-    font-size: 12px;
-    line-height: 20;
+.Bildung p1, p2, p3 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  
 
 /*Kenntnisse*/
 
 .Kenntnisse {
-    margin-top: 760px;
+    margin-top: 635px;
     margin-bottom:0px;
     margin-right: 0px;
-    margin-left: 237px;
+    margin-left: 500px;
     position: absolute;
     transform: translate(-50%, -55%);
     text-align: left;
@@ -139,19 +143,20 @@
     font-size:20px;
     color: #005ea9;
 }
-.Kenntnisse p {
-    color: #ffffff;
-    font-size: 12px;
-    line-height: 20;
+.Kenntnisse p1, p2, p3, p4, p5 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  
 
 /*Praxis Erfahrung*/
 
 .Erfahrung {
-    margin-top: 950px;
+    margin-top: 815px;
     margin-bottom:0px;
     margin-right: 0px;
-    margin-left: 195px;
+    margin-left: 192px;
     position: absolute;
     transform: translate(-50%, -55%);
     text-align: left;
@@ -161,13 +166,37 @@
     font-size:25px;
     color: #005ea9;
 }
-.Erfahrung p {
-    color: #ff0000;
-    font-size: 12px;
-    line-height: 20;
+.Erfahrung p1, p2 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
+} 
+
+/*Hobbys*/
+
+.Hobbys {
+    margin-top: 700px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 190px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.Hobbys h1 {
+    font-family:Times;
+    font-size:25px;
+    color: #005ea9;
+}
+.Hobbys p1, p2, p3 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  
 
-/*Praxis Erfahrung*/
+/*Unterschrift*/
 
 .Unterschrift {
     margin-top: 1050px;
@@ -178,8 +207,9 @@
     transform: translate(-50%, -55%);
     text-align: left;
 }
-.Unterschrift p {
-    color: #ff0000;
-    font-size: 12px;
-    line-height: 20;
+.Unterschrift p1 {
+    font-family:'Gill Sans';
+    color: #000000;
+    font-size: 15px;
+    line-height: 1px;
 }  

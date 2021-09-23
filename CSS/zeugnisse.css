@@ -1,0 +1,46 @@
+page {
+    background: rgba(255, 255, 255, 0);
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+  }
+  page[size="A4"] {  
+    width: 21cm;
+    height: 29.7cm; 
+  }
+
+/**/
+
+.zeugnis {
+    margin-top: 730px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 396px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.zeugnis h1 {
+    font-family: 'Gill Sans';
+    font-size:30px;
+    color: #005ea9;
+    text-align: center;
+}
+
+/**/
+
+.belobigung {
+    margin-top: 2000px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left: 396px;
+    position: absolute;
+    transform: translate(-50%, -55%);
+    text-align: left;
+}
+.belobigung h1 {
+    font-family: 'Gill Sans';
+    font-size:30px;
+    color: #005ea9;
+    text-align: center;
+}

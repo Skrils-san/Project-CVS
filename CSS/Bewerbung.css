@@ -1,21 +1,21 @@
- /*Header*/
+/*Header*/
  
- .Bewerbung {
-    margin-top: 40px;
-    margin-bottom:0px;
-    margin-right: 0px;
-    margin-left: 123px;
-    position: absolute;
-    transform: translate(-50%, -55%);
-    text-align: center;
+.Bewerbung {
+  margin-top: 40px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 123px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: center;
 }
 .Bewerbung h1 {
-    width: 100px;
-    height: 65px;
-    background-color: black;
-    font-family:Times;
-    font-size:17px;
-    color: #005ea9;
+  width: 100px;
+  height: 65px;
+  background-color: black;
+  font-family:Times;
+  font-size:17px;
+  color: #005ea9;
 }
 
 /*Header*/
@@ -31,14 +31,15 @@
 }
 .H-R h1 {
   font-family:Times;
-  font-size:25px;
+  font-size:20px;
   color: #005ea9;
   line-height: 10px;
 }
-.H-R p {
-  color: #ffffff;
-  font-size: 12px;
-  line-height: 20;
+.H-R p1, p2, p3, p4 {
+  color: #000000;
+  font-family:'Gill Sans';
+  font-size: 15px;
+  line-height: 1px;
 }  
 
 /*Header*/
@@ -54,14 +55,15 @@
 }
 .H-L h1 {
   font-family:Times;
-  font-size:25px;
+  font-size:20px;
   color: #005ea9;
   line-height: 10px;
 }
-.H-L p {
-  color: #ffffff;
-  font-size: 12px;
-  line-height: 20;
+.H-L p1, p2, p3, p4{
+  font-family:'Gill Sans';
+  color: #000000;
+  font-size: 15px;
+  line-height: 1px;
 }  
 
 /*Header*/
@@ -75,41 +77,38 @@
   transform: translate(-50%, -55%);
   text-align: left;
 }
-.datum p {
-  color: #ffffff;
-  font-size: 12px;
-  line-height: 20;
+.datum p1 {
+  font-family:'Gill Sans';
+  color: #000000;
+  font-size: 15px;
+  line-height: 1px;
 }  
 
 /* */
 
 .ueberschrifft {
-  margin-top: 1160px;
+  margin-top: 440px;
   margin-bottom:0px;
   margin-right: 0px;
-  margin-left: 170px;
+  margin-left: 380px;
   position: absolute;
   transform: translate(-50%, -55%);
-  text-align: left;
+  text-align: center;
 }
 .ueberschrifft h1 {
   font-family:Times;
-  font-size:25px;
+  font-size:20px;
   color: #005ea9;
+  
 }
-.ueberschrifft p {
-  color: #ffffff;
-  font-size: 12px;
-  line-height: 20;
-}  
 
 /* */
 
 .Text {
-  margin-top: 1160px;
+  margin-top: 680px;
   margin-bottom:0px;
   margin-right: 0px;
-  margin-left: 170px;
+  margin-left: 400px;
   position: absolute;
   transform: translate(-50%, -55%);
   text-align: left;
@@ -119,8 +118,18 @@
   font-size:25px;
   color: #005ea9;
 }
-.Text p {
-  color: #ffffff;
-  font-size: 12px;
-  line-height: 20;
+.Text p1, p2, p3, p4, p5, p6, p7, p8, p9, p10 {
+  font-family:'Gill Sans';
+  color: #000000;
+  font-size: 15px;
+  line-height: 1px;
 } 
+.unterschrift {
+  margin-top: 1050px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  margin-left: 620px;
+  position: absolute;
+  transform: translate(-50%, -55%);
+  text-align: left;
+}
