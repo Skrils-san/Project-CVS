@@ -35,11 +35,11 @@
   color: #005ea9;
   line-height: 10px;
 }
-.H-R p1, p2, p3, p4 {
+.H-R p {
   color: #000000;
   font-family:'Gill Sans';
   font-size: 15px;
-  line-height: 1px;
+  line-height: 20px;
 }  
 
 /*Header*/
@@ -59,11 +59,11 @@
   color: #005ea9;
   line-height: 10px;
 }
-.H-L p1, p2, p3, p4{
+.H-L p {
   font-family:'Gill Sans';
   color: #000000;
   font-size: 15px;
-  line-height: 1px;
+  line-height: 20px;
 }  
 
 /*Header*/
@@ -77,11 +77,11 @@
   transform: translate(-50%, -55%);
   text-align: left;
 }
-.datum p1 {
+.datum p {
   font-family:'Gill Sans';
   color: #000000;
   font-size: 15px;
-  line-height: 1px;
+  line-height: 20px;
 }  
 
 /* */
@@ -105,7 +105,7 @@
 /* */
 
 .Text {
-  margin-top: 680px;
+  margin-top: 760px;
   margin-bottom:0px;
   margin-right: 0px;
   margin-left: 400px;
@@ -118,11 +118,11 @@
   font-size:25px;
   color: #005ea9;
 }
-.Text p1, p2, p3, p4, p5, p6, p7, p8, p9, p10 {
+.Text p {
   font-family:'Gill Sans';
   color: #000000;
   font-size: 15px;
-  line-height: 1px;
+  line-height: 25px;
 } 
 .unterschrift {
   margin-top: 1050px;

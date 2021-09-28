@@ -57,11 +57,11 @@
     font-size:25px;
     color: #005ea9;
 }
-.P-D-L p1, p2, p3, p4, p5, p6 {
+.P-D-L p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 }  
 
 /*Persoenliche-Daten-Rechts*/
@@ -80,11 +80,11 @@
     font-size:21px;
     color: #005ea9;
 }
-.P-D-R p1, p2, p3, p4, p5, p6 {
+.P-D-R p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 }  
 
 /*Foto*/
@@ -115,11 +115,11 @@
     font-size:25px;
     color: #005ea9;
 }
-.Bildung p1, p2, p3 {
+.Bildung p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 }  
 
 /*Kenntnisse*/
@@ -143,11 +143,11 @@
     font-size:20px;
     color: #005ea9;
 }
-.Kenntnisse p1, p2, p3, p4, p5 {
+.Kenntnisse p, p1 {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 }  
 
 /*Praxis Erfahrung*/
@@ -166,11 +166,11 @@
     font-size:25px;
     color: #005ea9;
 }
-.Erfahrung p1, p2 {
+.Erfahrung p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 } 
 
 /*Hobbys*/
@@ -189,11 +189,11 @@
     font-size:25px;
     color: #005ea9;
 }
-.Hobbys p1, p2, p3 {
+.Hobbys p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 25px;
 }  
 
 /*Unterschrift*/
@@ -205,11 +205,11 @@
     margin-left: 630px;
     position: absolute;
     transform: translate(-50%, -55%);
-    text-align: left;
+    text-align: center;
 }
-.Unterschrift p1 {
+.Unterschrift p {
     font-family:'Gill Sans';
     color: #000000;
     font-size: 15px;
-    line-height: 1px;
+    line-height: 15px;
 }  
